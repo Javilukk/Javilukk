@@ -1,16 +1,31 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/banner.svg" alt="javilukk · Inteligencia Artificial" width="100%" />
+</p>
 
-<!--
-**Javilukk/Javilukk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mí
 
-Here are some ideas to get you started:
+Hola, soy **javilukk**. Mi enfoque es la **inteligencia artificial**:
+explorar cómo los modelos pueden aprender, interpretar información
+y resolver problemas reales.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Intereses
+
+- Machine Learning y Deep Learning.
+- Visión artificial.
+- Modelos de lenguaje y aplicaciones con IA.
+
+## Tecnologías
+
+<!-- Conserva únicamente las tecnologías que uses -->
+<p>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn&theme=dark"
+       alt="Herramientas de inteligencia artificial" />
+</p>
+
+## Actividad
+
+<!-- El gráfico aparece después de ejecutar el workflow -->
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg"
+       alt="Contribuciones de javilukk" width="100%" />
+</p>
