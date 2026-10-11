@@ -30,14 +30,6 @@ Vengo de la automatización industrial (PLCs, sensores, líneas de producción) 
 
 <p align="center">
 <a href="https://github.com/TU_USUARIO/TU_REPO_AI4I"><img src="./assets/es/card-ai4i.svg" width="49%" alt="Mantenimiento predictivo"/></a>
-<a href="https://github.com/TU_USUARIO/TU_REPO_RAMAN"><img src="./assets/es/card-raman.svg" width="49%" alt="Raman + CNN 1D"/></a>
-</p>
-<p align="center">
-<a href="https://github.com/TU_USUARIO/TU_REPO_FV"><img src="./assets/es/card-pv.svg" width="49%" alt="Detección de fallas FV"/></a>
-<a href="https://github.com/TU_USUARIO/TU_REPO_RASTRO"><img src="./assets/es/card-rastro.svg" width="49%" alt="Rastro"/></a>
-</p>
-<p align="center">
-<a href="https://github.com/TU_USUARIO/TU_REPO_PLC"><img src="./assets/es/card-plc.svg" width="49%" alt="Línea de producción con PLC"/></a>
 <a href="https://github.com/TU_USUARIO/TU_REPO_NLP"><img src="./assets/es/card-nlp.svg" width="49%" alt="NLP clásico"/></a>
 </p>
 
@@ -71,7 +63,7 @@ Vengo de la automatización industrial (PLCs, sensores, líneas de producción) 
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake-dark.svg" width="100%" alt="snake"/>
+<img src="https://raw.githubusercontent.com/Javilukk/Javilukk/output/github-snake-dark.svg" width="100%" alt="snake"/>
 
 </div>
 
@@ -83,7 +75,7 @@ Vengo de la automatización industrial (PLCs, sensores, líneas de producción) 
 
 <p align="center">
 <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="./assets/es/btn-linkedin.svg" width="170" alt="LinkedIn"/></a>
-<a href="mailto:TU_CORREO"><img src="./assets/es/btn-email.svg" width="170" alt="Email"/></a>
+<a href="mailto:martespq17@gmail.com"><img src="./assets/es/btn-email.svg" width="170" alt="Email"/></a>
 <a href="https://www.kaggle.com/TU_KAGGLE"><img src="./assets/es/btn-kaggle.svg" width="170" alt="Kaggle"/></a>
 </p>
 
