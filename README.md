@@ -42,7 +42,7 @@ I come from industrial automation (PLCs, sensors, production lines) and now buil
 
 <p align="center"><a href="https://github.com/Javilukk/machine-failure-prediction"><img src="./assets/en/card-ai4i.svg" width="600" alt="Machine Failure Prediction"/></a></p>
 <p align="center"><a href="https://github.com/Javilukk/ticket_classifier_nlp"><img src="./assets/en/card-nlp.svg" width="600" alt="Ticket Classifier"/></a></p>
-### 🧰 Toolbox
+Toolbox
 
 <p align="center">
   <strong>AI & Machine Learning</strong>
