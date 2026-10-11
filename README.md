@@ -29,17 +29,11 @@ I come from industrial automation (PLCs, sensors, production lines) and now buil
 <img src="./assets/en/section-projects.svg" width="100%" alt="Projects"/>
 
 <p align="center">
-<a href="https://github.com/TU_USUARIO/TU_REPO_AI4I"><img src="./assets/en/card-ai4i.svg" width="49%" alt="Predictive Maintenance"/></a>
-<a href="https://github.com/TU_USUARIO/TU_REPO_RAMAN"><img src="./assets/en/card-raman.svg" width="49%" alt="Raman + 1D CNN"/></a>
+<a href="https://github.com/Javilukk/machine_failure-prediction"><img src="./assets/en/card-ai4i.svg" width="49%" alt="Predictive Maintenance"/></a>
+<a href="https://github.com/Javilukk/ticket-classifier-nlp"><img src="./assets/en/card-nlp.svg" width="49%" alt="Classic NLP"/></a>
 </p>
-<p align="center">
-<a href="https://github.com/TU_USUARIO/TU_REPO_FV"><img src="./assets/en/card-pv.svg" width="49%" alt="PV Fault Detection"/></a>
-<a href="https://github.com/TU_USUARIO/TU_REPO_RASTRO"><img src="./assets/en/card-rastro.svg" width="49%" alt="Rastro"/></a>
-</p>
-<p align="center">
-<a href="https://github.com/TU_USUARIO/TU_REPO_PLC"><img src="./assets/en/card-plc.svg" width="49%" alt="PLC Production Line"/></a>
-<a href="https://github.com/TU_USUARIO/TU_REPO_NLP"><img src="./assets/en/card-nlp.svg" width="49%" alt="Classic NLP"/></a>
-</p>
+
+
 
 <br/>
 
@@ -71,7 +65,7 @@ I come from industrial automation (PLCs, sensors, production lines) and now buil
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-snake-dark.svg" width="100%" alt="snake"/>
+<img src="https://raw.githubusercontent.com/Javilukk/Javilukk/output/github-snake-dark.svg" width="100%" alt="snake"/>
 
 </div>
 
@@ -82,8 +76,8 @@ I come from industrial automation (PLCs, sensors, production lines) and now buil
 <p align="center">Have a machine that's talking and nobody's listening, or a Jr role that fits? Let's talk.</p>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="./assets/en/btn-linkedin.svg" width="170" alt="LinkedIn"/></a>
-<a href="mailto:TU_CORREO"><img src="./assets/en/btn-email.svg" width="170" alt="Email"/></a>
+<a href="[https://www.linkedin.com/in/TU_LINKEDIN](https://www.linkedin.com/in/martin-javier-espinoza-bb5b76280/?isSelfProfile=true)"><img src="./assets/en/btn-linkedin.svg" width="170" alt="LinkedIn"/></a>
+<a href="mailto:martespq17@gmail.com"><img src="./assets/en/btn-email.svg" width="170" alt="Email"/></a>
 <a href="https://www.kaggle.com/TU_KAGGLE"><img src="./assets/en/btn-kaggle.svg" width="170" alt="Kaggle"/></a>
 </p>
 
