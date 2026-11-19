@@ -4,7 +4,7 @@
 
 <sub>[🇺🇸 English](./README.md) · 🇲🇽 **Español**</sub>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=F0883E&center=true&vCenter=true&width=640&height=36&lines=De+PLCs+a+redes+neuronales;Machine+learning+para+datos+industriales;Abierto+a+chamba+%C2%B7+Jr+ML+%2F+Data+Science" alt=""/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1400&color=F0883E&center=true&vCenter=true&width=640&height=36&lines=De+PLCs+a+redes+neuronales;Machine+learning+para+datos+industriales;Disponible+ya+%C2%B7+Jr+ML+%2F+Data+Science+%2F+Python+Dev" alt=""/></a>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="./assets/es/btn-linkedin.svg" width="150" alt="LinkedIn"/></a>

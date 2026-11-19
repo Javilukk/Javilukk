@@ -204,16 +204,16 @@ def button(label):
 
 LANG = {
     "en": dict(
-        banner_sub="ML / DATA SCIENCE  ·  MECHATRONICS ENGINEERING",
+        banner_sub="ML / DATA SCIENCE / PYTHON DEV  ·  MECHATRONICS ENGINEERING",
         sections=[("about", "01", "About"), ("projects", "02", "Projects"), ("journey", "03", "Journey")],
         about_file="martin-javier.profile",
         about_rows=[("studying", "Mechatronics Engineering · UASLP · 2026"),
                     ("working", "Automation Intern · BENEBION"),
                     ("focus", "Machine learning for industrial & signal data"),
                     ("languages", "Spanish (native) · English (B2)"),
-                    ("status", "Open to work · available Dec 2026")],
+                    ("status", "Open to work · available now")],
         stats=[("3", "summers teaching", "C++ & ML"), ("2", "projects", "on GitHub"),
-               ("B2", "English", "native Spanish"), ("Dec 2026", "available", "to start")],
+               ("B2", "English", "native Spanish"), ("Now", "available", "to start")],
         cards=[
             ("ai4i", "chart", "Machine Failure Prediction", "AI4I 2020 · Python",
              ["Machine failure risk prediction from sensor data,", "with SHAP interpretability and a FastAPI endpoint."],
@@ -236,20 +236,20 @@ LANG = {
                  ("May 2026", ["Automation", "Intern"], ["BENEBION", "PLC & SQL"]),
                  ("2026", ["Hackathon"], ["Rastro", "Team Redhack"]),
                  ("2026", ["Graduating"], ["Mechatronics Eng.", "UASLP"]),
-                 ("Dec 2026", ["Available"], ["Jr ML /", "Data Science"])],
+                 ("Now", ["Available"], ["Jr ML /", "Data Science /", "Python Dev"])],
         buttons=("LinkedIn", "Email", "Kaggle"),
     ),
     "es": dict(
-        banner_sub="ML / CIENCIA DE DATOS  ·  INGENIERÍA MECATRÓNICA",
+        banner_sub="ML / CIENCIA DE DATOS / PYTHON DEV  ·  INGENIERÍA MECATRÓNICA",
         sections=[("about", "01", "Sobre mí"), ("projects", "02", "Proyectos"), ("journey", "03", "Trayectoria")],
         about_file="martin-javier.perfil",
         about_rows=[("estudio", "Ingeniería Mecatrónica · UASLP · 2026"),
                     ("trabajo", "Becario de automatización · BENEBION"),
                     ("enfoque", "ML para datos industriales y de señales"),
                     ("idiomas", "Español (nativo) · Inglés (B2)"),
-                    ("estado", "Abierto a chamba · disponible dic 2026")],
+                    ("estado", "Abierto a chamba · disponible ya")],
         stats=[("3", "veranos enseñando", "C++ y ML"), ("2", "proyectos", "en GitHub"),
-               ("B2", "inglés", "español nativo"), ("Dic 2026", "disponible", "para empezar")],
+               ("B2", "inglés", "español nativo"), ("Ya", "disponible", "para empezar")],
         cards=[
             ("ai4i", "chart", "Predicción de fallas", "AI4I 2020 · Python",
              ["Predicción de riesgo de falla en maquinaria con", "datos de sensores, SHAP y un endpoint con FastAPI."],
@@ -272,7 +272,7 @@ LANG = {
                  ("Mayo 2026", ["Becario de", "automatización"], ["BENEBION", "PLC y SQL"]),
                  ("2026", ["Hackathon"], ["Rastro", "Equipo Redhack"]),
                  ("2026", ["Egreso"], ["Ing. Mecatrónica", "UASLP"]),
-                 ("Dic 2026", ["Disponible"], ["Jr ML /", "Data Science"])],
+                 ("Ahora", ["Disponible"], ["Jr ML /", "Data Science /", "Python Dev"])],
         buttons=("LinkedIn", "Correo", "Kaggle"),
     ),
 }
