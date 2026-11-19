@@ -286,7 +286,7 @@
 <rect x="370" y="174" width="10" height="10" fill="#e6e0d4"/>
 <rect x="340" y="184" width="10" height="10" fill="#e6e0d4"/>
 <rect x="380" y="184" width="10" height="10" fill="#e6e0d4"/>
-<text x="40" y="240" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="22" textLength="294" lengthAdjust="spacing" fill="#8b949e">ML / CIENCIA DE DATOS</text>
+<text x="40" y="240" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="22" textLength="476" lengthAdjust="spacing" fill="#8b949e">ML / CIENCIA DE DATOS / PYTHON DEV</text>
 <text x="40" y="272" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="22" textLength="308" lengthAdjust="spacing" fill="#8b949e">INGENIERÍA MECATRÓNICA</text>
 <rect x="356" y="254" width="11" height="22" fill="#f0883e"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
 <rect x="40" y="300" width="120" height="4" fill="#f0883e"/><rect x="170" y="300" width="40" height="4" fill="#8a3f0a"/><rect x="220" y="300" width="20" height="4" fill="#4a2308"/>
