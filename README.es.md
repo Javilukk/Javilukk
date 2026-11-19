@@ -45,6 +45,10 @@ Vengo de la automatización industrial (PLCs, sensores, líneas de producción) 
 
 <img src="./assets/es/stack.svg" width="600" alt="stack"/>
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,sklearn,fastapi,git,cpp,matlab&theme=dark" alt="tech stack"/>
+</p>
+
 </div>
 
 <br/>
